@@ -1,16 +1,16 @@
 # 68RFE Pro
 
-**Free diagnostic tool for the Cummins 68RFE transmission**
+**Freemium diagnostic tool for the Cummins 68RFE transmission**
 
 ## 🚀 Features
 
-- **DTC Lookup** - Search and understand diagnostic trouble codes
-- **Symptom Flowcharts** - Guided diagnosis for transmission issues
-- **Clutch Specifications** - Detailed clutch pack information and specs
-- **VIN Decoder** - Decode VINs to identify transmission details
-- **Stripe Payment Integration** - Accept payments for premium features
+- **DTC Lookup** - Search and understand diagnostic trouble codes (Free)
+- **Symptom Flowcharts** - Guided diagnosis for transmission issues (Free)
+- **Clutch Specifications** - Detailed clutch pack information and specs (Free)
+- **VIN Decoder** - Decode VINs to identify transmission details (Free)
+- **Premium Diagnostic Packages** - Advanced analysis and detailed reports (Paid)
 - **Mobile Responsive** - Works on all devices
-- **Free Forever** - No ads, no subscriptions
+- **Freemium Model** - Essential tools are free, premium features available
 
 ## 🛠️ Tech Stack
 
